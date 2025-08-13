@@ -1,0 +1,5 @@
+/* TODO: Verify why the styles are not correctly applied in the project */
+.container section {
+    margin: 2em 20em;
+    text-align: center;   
+}
