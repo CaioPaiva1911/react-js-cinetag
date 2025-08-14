@@ -1,7 +1,12 @@
 .rodape {
+    left: 0;
+    bottom: 0;
+    width: 100%;
     display: flex;
     justify-content: center;
-    background-color: var(--preto);    
+    background-color: var(--preto); 
+    padding: 1em 0;
+    z-index: 100;
 }
 
 .rodape h2 {
